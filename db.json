@@ -1,19 +1,33 @@
 {
-  "topics": [
+  "id": 1,
+  "fecha": "2023-10-18T12:00:00",
+  "idCliente": 123,
+  "status": "PENDING",
+  "detail": [
     {
-      "id": 1,
-      "title": "to learn angular",
-      "completed": false
+      "idProducto": 101,
+      "descripcion": "Producto A",
+      "precioUnitario": 10.99,
+      "cantidad": 2
     },
     {
-      "id": 2,
-      "title": "to learn french",
-      "completed": true
-    },
-    {
-      "id": 3,
-      "title": "to learn some",
-      "completed": false
+      "idProducto": 102,
+      "descripcion": "Producto B",
+      "precioUnitario": 15.49,
+      "cantidad": 3
     }
-  ]
+  ],
+  "disconts": [
+    {
+      "percent": 10.0,
+      "description": "Descuento de 10%"
+    },
+    {
+      "percent": 5.0,
+      "description": "Descuento de 5%"
+    }
+  ],
+  "subtotal": 63.95,
+  "total": 60.75
 }
+
