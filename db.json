@@ -17,16 +17,5 @@
       "cantidad": 3
     }
   ],
-  "disconts": [
-    {
-      "percent": 10.0,
-      "description": "Descuento de 10%"
-    },
-    {
-      "percent": 5.0,
-      "description": "Descuento de 5%"
-    }
-  ],
-  "subtotal": 63.95,
-  "total": 60.75
+
 }
