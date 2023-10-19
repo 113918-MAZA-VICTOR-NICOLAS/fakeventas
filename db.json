@@ -1,22 +1,19 @@
-[
-  {
-  "id": 1,
-  "fecha": "2023-10-18T12:00:00",
-  "idCliente": 123,
-  "status": "PENDING",
-  "detail": [
+{
+  "topics": [
     {
-      "idProducto": 101,
-      "descripcion": "Producto A",
-      "precioUnitario": 10.99,
-      "cantidad": 2
+      "id": 1,
+      "title": "to learn angular",
+      "completed": false
     },
     {
-      "idProducto": 102,
-      "descripcion": "Producto B",
-      "precioUnitario": 15.49,
-      "cantidad": 3
+      "id": 2,
+      "title": "to learn french",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "to learn some",
+      "completed": false
     }
-    ]
-  }
-]
+  ]
+}
