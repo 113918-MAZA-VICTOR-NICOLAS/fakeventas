@@ -3,13 +3,3 @@
 {"id":3,"nombre":"Ciudad C","ciudades":[{"id":"301","nombre":"Sector X"},{"id":"302","nombre":"Sector Y"},{"id":"303","nombre":"Sector Z"}]},
 {"id":4,"nombre":"Ciudad D","ciudades":[{"id":"401","nombre":"Distrito 10"},{"id":"402","nombre":"Distrito 11"},{"id":"403","nombre":"Distrito 12"}]},
 {"id":5,"nombre":"Ciudad E","ciudades":[{"id":"501","nombre":"Área A"},{"id":"502","nombre":"Área B"}]},
-{"id":6,"nombre":"Ciudad F","ciudades":[{"id":"601","nombre":"Localidad P"},{"id":"602","nombre":"Localidad Q"},{"id":"603","nombre":"Localidad R"}]},
-{"id":7,"nombre":"Ciudad G","ciudades":[{"id":"701","nombre":"Pueblo 1"},{"id":"702","nombre":"Pueblo 2"}]},
-{"id":8,"nombre":"Ciudad H","ciudades":[{"id":"801","nombre":"Barriada A"},{"id":"802","nombre":"Barriada B"}]},
-{"id":9,"nombre":"Ciudad I","ciudades":[{"id":"901","nombre":"Zona Industrial 1"},{"id":"902","nombre":"Zona Industrial 2"}]},
-{"id":10,"nombre":"Ciudad J","ciudades":[{"id":"1001","nombre":"Área Residencial A"},{"id":"1002","nombre":"Área Residencial B"}]},
-{"id":11,"nombre":"Ciudad K","ciudades":[{"id":"1101","nombre":"Centro Histórico"},{"id":"1102","nombre":"Centro Comercial"}]},
-{"id":12,"nombre":"Ciudad L","ciudades":[{"id":"1201","nombre":"Barrio Histórico 1"},{"id":"1202","nombre":"Barrio Histórico 2"}]},
-{"id":13,"nombre":"Ciudad M","ciudades":[{"id":"1301","nombre":"Sector Cultural"},{"id":"1302","nombre":"Sector Recreativo"}]},
-{"id":14,"nombre":"Ciudad N","ciudades":[{"id":"1401","nombre":"Área Verde 1"},{"id":"1402","nombre":"Área Verde 2"}]},
-{"id":15,"nombre":"Ciudad O","ciudades":[{"id":"1501","nombre":"Distrito Tecnológico"},{"id":"1502","nombre":"Distrito Financiero"}]}]
